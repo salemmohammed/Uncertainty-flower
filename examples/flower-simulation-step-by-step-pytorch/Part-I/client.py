@@ -7,6 +7,7 @@ import flwr as fl
 
 from model import Net, train, test
 
+# Testing github
 
 class FlowerClient(fl.client.NumPyClient):
     """Define a Flower Client."""
